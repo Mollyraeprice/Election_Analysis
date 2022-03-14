@@ -13,7 +13,7 @@ A congressional election took place in Colorado and Seth and Tom, employees on t
 
 This total was found simply by counting the amount of rows in the dataset, election_results.csv.
 
-2. A complete list of canidates who recieved votes and the amount and percentage of votes each candidate won:
+2. A complete list of candidates who recieved votes and the amount and percentage of votes each candidate won:
 
 ![Screen Shot 2022-03-14 at 7 09 17 PM](https://user-images.githubusercontent.com/98489681/158275361-dbbf1407-470f-47e7-89f0-138dcb4133b1.png)
 
@@ -24,7 +24,7 @@ Below is the code that summarized the candidate results with names, votes, and p
 
 ![Screen Shot 2022-03-14 at 7 14 48 PM](https://user-images.githubusercontent.com/98489681/158275906-514652de-957b-4fd0-8a9b-18e0ac1b4b91.png)
 
-Below is the code written for the winner of the election. We wrote code to read who won from our previous candidate results. 
+Below is the code written for the winner of the election. We extracted this data from the previous code of candidate results. 
 
 ![Screen Shot 2022-03-14 at 7 15 24 PM](https://user-images.githubusercontent.com/98489681/158276060-3c809c47-0000-46f1-8d70-6e1eea3a4a50.png)
 
