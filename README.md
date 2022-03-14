@@ -33,7 +33,7 @@ Below is the code written for the winner of the election. We extracted this data
 
 Below is the collection of the final results:
 
-![Screen Shot 2022-03-08 at 7 20 58 PM](https://user-images.githubusercontent.com/98489681/157353808-bded06e6-10f3-4e80-a4fb-620450a78968.png)
+![Screen Shot 2022-03-14 at 7 25 00 PM](https://user-images.githubusercontent.com/98489681/158277040-1ef89e2e-89ac-47ba-b4a5-322f587b68af.png)
 
 ### Election-Audit Proposal:
-I would like to continue to provide analytics to the election commision with this code. Now that the code is written, it will be very simple to use for future elections. We can change the city, candidates, amount of candidates, and more. For the future, we could also add in info on how each candidate was fundraising or campaigning to bring about knowledge for what may tend to be more useful in strategizing. We could also add in household info or the dates the voters went to vote to give further insight on the demographics. This could lead to learning more about cities and how to generate a better turnout, with accesible means for all.
+I would like to continue to provide data analytics to the election commision with this code. Now that the code is written, it will be very simple to use for future elections. We can change the city, candidates, amount of candidates, and more. For the future, we could also add in info on how each candidate was fundraising or campaigning to bring about knowledge for what may tend to be more useful in strategizing. We could also add in household info or the dates the voters went to vote to give further insight on the demographics. This could lead to learning more about cities and how to generate a better turnout, with accesible means for all.
